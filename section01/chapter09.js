@@ -43,3 +43,4 @@ switch (animal) {
     console.log("그런 동물은 전 모릅니다");
   }
 }
+//
